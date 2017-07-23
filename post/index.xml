@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Feryal Behbahani</title>
-    <link>https://fery.al/post/</link>
+    <link>https://feryal.github.io/post/</link>
     <description>Recent content in Posts on Feryal Behbahani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Test</title>
-      <link>https://fery.al/post/test/</link>
+      <link>https://feryal.github.io/post/test/</link>
       <pubDate>Thu, 06 Jul 2017 19:31:40 +0100</pubDate>
       
-      <guid>https://fery.al/post/test/</guid>
+      <guid>https://feryal.github.io/post/test/</guid>
       <description>&lt;p&gt;hello&lt;/p&gt;
 </description>
     </item>

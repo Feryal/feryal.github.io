@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Feryal Behbahani</title>
-    <link>https://fery.al/publication_types/2/</link>
+    <link>https://feryal.github.io/publication_types/2/</link>
     <description>Recent content in 2 on Feryal Behbahani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>Human Visual classification reflects Bayesian generative representations (under submission)</title>
-      <link>https://fery.al/publication/categorisation/</link>
+      <link>https://feryal.github.io/publication/categorisation/</link>
       <pubDate>Thu, 20 Jul 2017 22:00:19 +0100</pubDate>
       
-      <guid>https://fery.al/publication/categorisation/</guid>
+      <guid>https://feryal.github.io/publication/categorisation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamics of uncertainty in sensorimotor estimation across time (under submission)</title>
-      <link>https://fery.al/publication/uncertainty/</link>
+      <link>https://feryal.github.io/publication/uncertainty/</link>
       <pubDate>Thu, 20 Jul 2017 22:00:07 +0100</pubDate>
       
-      <guid>https://fery.al/publication/uncertainty/</guid>
+      <guid>https://feryal.github.io/publication/uncertainty/</guid>
       <description></description>
     </item>
     

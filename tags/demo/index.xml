@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo on Feryal Behbahani</title>
-    <link>https://fery.al/tags/demo/</link>
+    <link>https://feryal.github.io/tags/demo/</link>
     <description>Recent content in Demo on Feryal Behbahani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>End-to-end control: A3C-MuJoCo</title>
-      <link>https://fery.al/project/jaco/</link>
+      <link>https://feryal.github.io/project/jaco/</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://fery.al/project/jaco/</guid>
+      <guid>https://feryal.github.io/project/jaco/</guid>
       <description></description>
     </item>
     
