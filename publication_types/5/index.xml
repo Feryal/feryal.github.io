@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 on Feryal Behbahani</title>
+    <link>https://fery.al/publication_types/5/</link>
+    <description>Recent content in 5 on Feryal Behbahani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Feryal Behbahani</copyright>
+    <lastBuildDate>Thu, 20 Jul 2017 15:29:25 +0100</lastBuildDate>
+    <atom:link href="/publication_types/5/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reverse-Engineering Human Visual and Haptic Perceptual Algorithms</title>
+      <link>https://fery.al/publication/thesis/</link>
+      <pubDate>Thu, 20 Jul 2017 15:29:25 +0100</pubDate>
+      
+      <guid>https://fery.al/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

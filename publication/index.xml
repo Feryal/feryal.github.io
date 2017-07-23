@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Feryal Behbahani</title>
+    <link>https://fery.al/publication/</link>
+    <description>Recent content in Publications on Feryal Behbahani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Feryal Behbahani</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Human Visual classification reflects Bayesian generative representations (under submission)</title>
+      <link>https://fery.al/publication/categorisation/</link>
+      <pubDate>Thu, 20 Jul 2017 22:00:19 +0100</pubDate>
+      
+      <guid>https://fery.al/publication/categorisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamics of uncertainty in sensorimotor estimation across time (under submission)</title>
+      <link>https://fery.al/publication/uncertainty/</link>
+      <pubDate>Thu, 20 Jul 2017 22:00:07 +0100</pubDate>
+      
+      <guid>https://fery.al/publication/uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse-Engineering Human Visual and Haptic Perceptual Algorithms</title>
+      <link>https://fery.al/publication/thesis/</link>
+      <pubDate>Thu, 20 Jul 2017 15:29:25 +0100</pubDate>
+      
+      <guid>https://fery.al/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haptic SLAM: An Ideal Observer Model for Bayesian Inference of Object Shape and Hand Pose from Contact Dynamics</title>
+      <link>https://fery.al/publication/hapticslam/</link>
+      <pubDate>Sun, 03 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://fery.al/publication/hapticslam/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://fery.al/img/headers/hapticslam.png&#34; alt=&#34;test&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The emergence of decision boundaries is predicted by second order statistics of stimuli in visual categorization</title>
+      <link>https://fery.al/publication/vss15/</link>
+      <pubDate>Thu, 20 Aug 2015 21:53:04 +0100</pubDate>
+      
+      <guid>https://fery.al/publication/vss15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haptic SLAM for Context-Aware Robotic Hand Prosthetics - Simultaneous Inference of Hand Pose and Object Shape Using Particle Filters</title>
+      <link>https://fery.al/publication/ner15/</link>
+      <pubDate>Mon, 20 Jul 2015 21:51:11 +0100</pubDate>
+      
+      <guid>https://fery.al/publication/ner15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual categorization reflects second order generative statistics</title>
+      <link>https://fery.al/publication/cosyne14/</link>
+      <pubDate>Thu, 20 Feb 2014 21:46:26 +0100</pubDate>
+      
+      <guid>https://fery.al/publication/cosyne14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
