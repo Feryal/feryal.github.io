@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>What Would it Take to Train an Agent to Play with a Shape-Sorter?</title>
+      <link>https://feryal.github.io/talk/rework/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://feryal.github.io/talk/rework/</guid>
+      <description>&lt;p&gt;The capabilities of humans to precisely and robustly recognise and manipulate objects has been instrumental in the development of human cognition. However, understanding and replicating this process has proven to be difficult. This is of particular importance when thinking of agents or robots acting in naturalistic environments, solving complex tasks. I will present recent work in this direction, focusing on computational optimality and Deep Reinforcement Learning techniques, to discover how to manipulate objects within a 3D physics simulator from high-dimensional sensory observations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Human Visual classification reflects Bayesian generative representations (under submission)</title>
       <link>https://feryal.github.io/publication/categorisation/</link>
       <pubDate>Thu, 20 Jul 2017 22:00:19 +0100</pubDate>
@@ -44,16 +54,6 @@
       
       <guid>https://feryal.github.io/project/jaco/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://feryal.github.io/post/test/</link>
-      <pubDate>Thu, 06 Jul 2017 19:31:40 +0100</pubDate>
-      
-      <guid>https://feryal.github.io/post/test/</guid>
-      <description>&lt;p&gt;hello&lt;/p&gt;
-</description>
     </item>
     
     <item>

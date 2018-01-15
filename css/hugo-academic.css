@@ -3,7 +3,7 @@
  *  Designed by @GeorgeCushen.
  *  https://github.com/gcushen/hugo-academic
  **************************************************/
-
+ 
 /*************************************************
  *  Core
  **************************************************/
@@ -1114,3 +1114,41 @@ div.alert a:hover {
   background-color: #f44336; /* Material Red500 */
   border-color: #ebccd1;
 }
+
+.admonition-content {
+  display: block;
+	margin: 0px;
+  padding: .125em 1em;
+}
+
+.note,
+.warning {
+
+  border-left-width: 4px;
+  border-left-style: solid;
+  position: relative;
+  border-color: #03A9F4;
+
+  display: block;
+}
+.note #exclamation-icon,
+.warning #exclamation-icon {
+
+  fill: var(--primary-color);
+  position: absolute;
+  top: 35%;
+  left: -12px;
+  /*background-color: white;*/
+}
+
+  .admonition-content {
+    display: block;
+    margin: 0px;
+    padding: .125em 1em;
+    /*margin-left: 1em;*/
+    margin-top: 2em;
+    margin-bottom: 2em;
+    overflow-x: auto;
+    /*font-size: .9375em;*/
+    background-color:  whitesmoke;
+  }
