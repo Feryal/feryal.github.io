@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Feryal Behbahani</title>
-    <link>https://feryal.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Feryal Behbahani</description>
+    <title>Curriculum Learning on Feryal Behbahani</title>
+    <link>https://feryal.github.io/tags/curriculum-learning/</link>
+    <description>Recent content in Curriculum Learning on Feryal Behbahani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Feryal Behbahani</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/curriculum-learning/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Automated Curriculum Learning for Reinforcement Learning</title>
@@ -37,16 +37,6 @@
 &lt;p&gt;[3] &lt;a href=&#34;https://arxiv.org/abs/1802.10567&#34;&gt;Learning by Playing-Solving Sparse Reward Tasks from Scratch&lt;/a&gt; (Reidmiller et al., 2018)&lt;/p&gt;
 
 &lt;p&gt;[4] &lt;a href=&#34;https://arxiv.org/abs/1602.01783&#34;&gt;POWERPLAY: Training an Increasingly General Problem Solver by Continually Searching for the Simplest Still Unsolvable Problem&lt;/a&gt; (Schmidhuber, 2011)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What Would it Take to Train an Agent to Play with a Shape-Sorter?</title>
-      <link>https://feryal.github.io/talk/rework/</link>
-      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://feryal.github.io/talk/rework/</guid>
-      <description>&lt;p&gt;The capabilities of humans to precisely and robustly recognise and manipulate objects has been instrumental in the development of human cognition. However, understanding and replicating this process has proven to be difficult. This is of particular importance when thinking of agents or robots acting in naturalistic environments, solving complex tasks. I will present recent work in this direction, focusing on computational optimality and Deep Reinforcement Learning techniques, to discover how to manipulate objects within a 3D physics simulator from high-dimensional sensory observations.&lt;/p&gt;
 </description>
     </item>
     
