@@ -7,17 +7,8 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Feryal Behbahani</copyright>
-    <lastBuildDate>Sat, 15 Sep 2018 22:00:19 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jul 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Learning from Demonstration in the Wild (under review)</title>
-      <link>https://feryal.github.io/publication/vibe/</link>
-      <pubDate>Sat, 15 Sep 2018 22:00:19 +0100</pubDate>
-      
-      <guid>https://feryal.github.io/publication/vibe/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Haptic SLAM: An Ideal Observer Model for Bayesian Inference of Object Shape and Hand Pose from Contact Dynamics</title>
