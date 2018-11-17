@@ -52,11 +52,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="">
+  <link rel="canonical" href="https://feryal.github.io/publication/acl/">
 
   
 
-  <title>404 Page not found | Feryal Behbahani</title>
+  <title>Automated Curriculum Learning for Reinforcement Learning | Feryal Behbahani</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -174,70 +174,179 @@
   </div>
 </nav>
 
-<div class="container">
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
-  <h1>Page not found</h1>
-  <p>Maybe you were looking for one of these?</p>
-
-  <h2>Recent Posts</h2>
-  
-  <ul>
-    <li><a href="https://feryal.github.io/post/successorrepresentations/">Successor Representations</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="https://feryal.github.io/post/">Posts</a></li>
-  </ul>
   
 
-  <h2>Recent Publications</h2>
-  
-  <ul>
-    <li><a href="https://feryal.github.io/publication/vibe/">Learning from Demonstration in the Wild</a></li>
+
+  <div class="container pub-title">
+    <h1 itemprop="name">Automated Curriculum Learning for Reinforcement Learning</h1>
+    <span class="pub-authors" itemprop="author">
+      
+      Feryal Behbahani
+      
+    </span>
+    <span class="pull-right">
+      
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fferyal.github.io%2fpublication%2facl%2f"
+         target="_blank">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Automated%20Curriculum%20Learning%20for%20Reinforcement%20Learning&amp;url=https%3a%2f%2fferyal.github.io%2fpublication%2facl%2f"
+         target="_blank">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fferyal.github.io%2fpublication%2facl%2f&amp;title=Automated%20Curriculum%20Learning%20for%20Reinforcement%20Learning"
+         target="_blank">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fferyal.github.io%2fpublication%2facl%2f&amp;title=Automated%20Curriculum%20Learning%20for%20Reinforcement%20Learning"
+         target="_blank">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Automated%20Curriculum%20Learning%20for%20Reinforcement%20Learning&amp;body=https%3a%2f%2fferyal.github.io%2fpublication%2facl%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
   </ul>
-  
-  <ul>
-    <li><a href="https://feryal.github.io/publication/acl/">Automated Curriculum Learning for Reinforcement Learning</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="https://feryal.github.io/publication/malmo/">Extending World Models for Multi-Agent Reinforcement Learning in MALMÖ</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="https://feryal.github.io/publication/categorisation/">Human Visual classification reflects Bayesian generative representations (under submission)</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="https://feryal.github.io/publication/uncertainty/">Dynamics of uncertainty in sensorimotor estimation across time (under submission)</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="https://feryal.github.io/publication/thesis/">Reverse-Engineering Human Visual and Haptic Perceptual Algorithms</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="https://feryal.github.io/publication/">Publications</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="https://feryal.github.io/publication/hapticslam/">Haptic SLAM: An Ideal Observer Model for Bayesian Inference of Object Shape and Hand Pose from Contact Dynamics</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="https://feryal.github.io/publication/vss15/">The emergence of decision boundaries is predicted by second order statistics of stimuli in visual categorization</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="https://feryal.github.io/publication/ner15/">Haptic SLAM for Context-Aware Robotic Hand Prosthetics - Simultaneous Inference of Hand Pose and Object Shape Using Particle Filters</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="https://feryal.github.io/publication/cosyne14/">Visual categorization reflects second order generative statistics</a></li>
-  </ul>
-  
+</div>
+
+
+    </span>
+  </div>
 
 </div>
+<div class="article-container">
+
+  
+
+  <h3>Abstract</h3>
+  <p class="pub-abstract" itemprop="text">How would you teach an artificial agent to learn a complex problem, requiring multiple skills but which has very sparse rewards and where you can fail easily? Humans would tackle this hard problem by splitting that into simpler ones, and learn them one by one. We would even rely on a teacher to help split the task and decides on when to tackle each sub-problem to learn everything faster. We can do the same in the context of neural networks, by introducing a Teacher network which learns to generate a curriculum of simpler tasks, so that overall the Student network can learn to solve the complex task. In this work, we set out to train an automatic curriculum generator for solving complex sparse reward tasks. A teacher network tracks the progress of the student network, and proposes new tasks as a function of how well the student is learning.
+
+
+We propose an environment, CraftEnv, for designing multi-step crafting minigames. It supports fully flexible and hierarchical crafting tasks, covering a wide range of difficulty. We adapted an state-of-the-art distributed reinforcement learning algorithm, IMPALA [Espeholt, 2018], for training the Student network, while using an adversarial multi-armed bandit algorithm [Auer, 2003], for the Teacher network.
+
+
+We show that using an automated curriculum helped our agent to solve more complex tasks in our environment, where a random curriculum would fail or be too slow. Moreover, the Teacher showed interesting dynamics of task proposals, varying the tasks presented to the agent depending on their usefulness to drive learning. This allowed the student to learn incrementally, solving simple tasks first and progressing to solve more challenging tasks.
+
+
+We analysed how using different signals [Graves, 2017] for quantifying student progress (e.g. Return gain, Gradient prediction gain) affects the curriculum that the teacher learns to propose. Finally, we demonstrate that this approach can accelerate learning and interpretability of how the agent is learning to perform complex tasks.
+
+
+Just like kids learning, our algorithm allows the model to learn incrementally, solve simple tasks and transfer to more complex settings. This research has interesting potential for future research where the Teacher could be extended to take other signals into account e.g. safety requirements through multi objective optimisation. Furthermore, this work could have implications for automated tutoring systems, where one could adapt teaching to individual students.</p>
+
+  
+  <div class="row">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10">
+      <div class="row">
+        <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
+        <div class="col-xs-12 col-sm-9">
+          
+          <a href="/publication/#3">
+            Work in progress
+          </a>
+          
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-1"></div>
+  </div>
+  <div class="visible-xs space-below"></div>
+  
+
+  <div class="row">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10">
+      <div class="row">
+        <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
+        <div class="col-xs-12 col-sm-9">13th annual Women in Machine Learning workshop (WiML) 2018</div>
+      </div>
+    </div>
+    <div class="col-sm-1"></div>
+  </div>
+  <div class="visible-xs space-below"></div>
+
+  <div class="row">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10">
+      <div class="row">
+        <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
+        <div class="col-xs-12 col-sm-9" itemprop="datePublished">
+          September, 2018
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-1"></div>
+  </div>
+  <div class="visible-xs space-below"></div>
+
+  <div class="row" style="padding-top: 10px">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10">
+      <div class="row">
+        <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
+        <div class="col-xs-12 col-sm-9">
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-1"></div>
+  </div>
+  <div class="visible-xs space-below"></div>
+
+  <div class="space-below"></div>
+
+  <div class="article-style"></div>
+
+</div>
+
+<div class="container">
+  <nav>
+  <ul class="pager">
+    
+    <li class="previous"><a href="https://feryal.github.io/publication/malmo/"><span
+      aria-hidden="true">&larr;</span> Extending World Models for Multi-Agent Reinforcement Learning in MALMÖ</a></li>
+    
+
+    
+    <li class="next"><a href="https://feryal.github.io/publication/vibe/">Learning from Demonstration in the Wild <span
+      aria-hidden="true">&rarr;</span></a></li>
+    
+  </ul>
+</nav>
+
+</div>
+
 <footer class="site-footer">
   <div class="container">
     <p class="powered-by">
