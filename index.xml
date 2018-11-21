@@ -39,6 +39,24 @@
     
     <item>
       <title>Automated Curriculum Learning for Reinforcement Learning</title>
+      <link>https://feryal.github.io/project/acl/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://feryal.github.io/project/acl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Craft Environment</title>
+      <link>https://feryal.github.io/project/craftenv/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://feryal.github.io/project/craftenv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Curriculum Learning for Reinforcement Learning</title>
       <link>https://feryal.github.io/talk/jeju/</link>
       <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
       
@@ -273,15 +291,6 @@ $$\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \
       <pubDate>Mon, 20 Jul 2015 21:51:11 +0100</pubDate>
       
       <guid>https://feryal.github.io/publication/ner15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visual categorization reflects second order generative statistics</title>
-      <link>https://feryal.github.io/publication/cosyne14/</link>
-      <pubDate>Thu, 20 Feb 2014 21:46:26 +0100</pubDate>
-      
-      <guid>https://feryal.github.io/publication/cosyne14/</guid>
       <description></description>
     </item>
     
