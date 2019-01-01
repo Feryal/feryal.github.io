@@ -11,6 +11,18 @@
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Learning from Demonstration: Applications and challenges</title>
+      <link>https://feryal.github.io/talk/oxford/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://feryal.github.io/talk/oxford/</guid>
+      <description>&lt;p&gt;Recent advances in deep reinforcement learning have enabled a wide range of capabilities, from learning to play video games to acquiring robotic visuomotor skills. However, there are a wide range of problems where hand-coding behaviour or a reward function is impractical. Learning from demonstration (LfD) serves as an essential tool for learning skills that are difficult to program by hand. These demonstrations provide snapshots of near-optimal behaviours, offering guidance for the learning process and alleviating the need to start from scratch or manually engineering parts of the solution. However, it is often unclear how to acquire these in non-controlled settings, and the new challenges that arise when trying to apply these techniques in the real world.&lt;/p&gt;
+
+&lt;p&gt;In this talk, I will present some of the recent techniques that can help us bridge that gap and learn realistic behaviours from a large source of untapped data already existing “in the wild”. I will cover some of the latest LfD approaches that leverage recent advances in deep learning and generative adversarial methods. I will present our recent work, video to behaviour (ViBe), which can extract realistic behaviours from raw unlabelled video data, without additional expert knowledge. We can automatically extract trajectories and use them to perform LfD through a novel curriculum and cope with multiple agents interacting in complex settings. I will finish with a discussion of open questions and future research directions required to extend these approaches further.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Automated Curriculum Learning for Reinforcement Learning</title>
       <link>https://feryal.github.io/talk/jeju/</link>
       <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
