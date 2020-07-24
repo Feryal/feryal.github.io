@@ -11,6 +11,42 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Acme: A Research Framework for Distributed Reinforcement Learning</title>
+      <link>https://feryal.github.io/publication/acme/</link>
+      <pubDate>Wed, 15 Jul 2020 22:00:19 +0100</pubDate>
+      
+      <guid>https://feryal.github.io/publication/acme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privileged Information Dropout in Reinforcement Learning</title>
+      <link>https://feryal.github.io/publication/privinfodropout/</link>
+      <pubDate>Wed, 15 Jan 2020 22:00:19 +0100</pubDate>
+      
+      <guid>https://feryal.github.io/publication/privinfodropout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysing Deep Reinforcement Learning Agents Trained with Domain Randomisation</title>
+      <link>https://feryal.github.io/publication/analysis/</link>
+      <pubDate>Fri, 15 Nov 2019 22:00:19 +0100</pubDate>
+      
+      <guid>https://feryal.github.io/publication/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular Meta-Learning with Shrinkage</title>
+      <link>https://feryal.github.io/publication/shrinkage/</link>
+      <pubDate>Fri, 15 Nov 2019 22:00:19 +0100</pubDate>
+      
+      <guid>https://feryal.github.io/publication/shrinkage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning from Demonstration: Applications and challenges</title>
       <link>https://feryal.github.io/talk/oxford/</link>
       <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
@@ -258,43 +294,6 @@ $$\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \
       
       <guid>https://feryal.github.io/publication/categorisation/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamics of uncertainty in sensorimotor estimation across time (under submission)</title>
-      <link>https://feryal.github.io/publication/uncertainty/</link>
-      <pubDate>Thu, 20 Jul 2017 22:00:07 +0100</pubDate>
-      
-      <guid>https://feryal.github.io/publication/uncertainty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reverse-Engineering Human Visual and Haptic Perceptual Algorithms</title>
-      <link>https://feryal.github.io/publication/thesis/</link>
-      <pubDate>Thu, 20 Jul 2017 15:29:25 +0100</pubDate>
-      
-      <guid>https://feryal.github.io/publication/thesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>End-to-end control: A3C-MuJoCo</title>
-      <link>https://feryal.github.io/project/jaco/</link>
-      <pubDate>Sat, 15 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://feryal.github.io/project/jaco/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Haptic SLAM: An Ideal Observer Model for Bayesian Inference of Object Shape and Hand Pose from Contact Dynamics</title>
-      <link>https://feryal.github.io/publication/hapticslam/</link>
-      <pubDate>Sun, 03 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://feryal.github.io/publication/hapticslam/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://feryal.github.io/img/headers/hapticslam.png&#34; alt=&#34;test&#34; /&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

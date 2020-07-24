@@ -346,6 +346,203 @@ I previously obtained my MSc in Artificial Intelligence with distinction at Impe
     
 
     <div class="col-md-12">
+      <a href="https://feryal.github.io/publication/acme/">
+        <img src="/img/headers/acme.png" class="pub-banner"
+             itemprop="image">
+      </a>
+    </div>
+    <div class="col-md-12">
+
+    
+
+      <h3 class="article-title" itemprop="name">
+        <a href="https://feryal.github.io/publication/acme/" itemprop="url">Acme: A Research Framework for Distributed Reinforcement Learning</a>
+      </h3>
+
+      <div class="pub-abstract" itemprop="text">
+        
+        Deep reinforcement learning has led to many recent-and groundbreaking-advancements. However, these advances have often come at the cost of both the scale and complexity of the underlying RL algorithms. Increases in complexity have in turn made it more difficult for researchers to reproduce published RL algorithms or rapidly prototype ideas. To address this, we introduce Acme, a tool to simplify the development of novel RL algorithms that is specifically designed to enable simple agent implementations that can be run at various scales of execution. Our aim is also to make the results of various RL algorithms developed in academia and industrial labs easier to reproduce and extend. To this end we are releasing baseline implementations of various algorithms, created using our framework. In this work we introduce the major design decisions behind Acme and show how these are used to construct these baselines. We also experiment with these agents at different scales of both complexity and computation-including distributed versions. Ultimately, we show that the design decisions behind Acme lead to agents that can be scaled both up and down and that, for the most part, greater levels of parallelization result in agents with equivalent performance, just faster.
+        
+      </div>
+
+      <div class="pub-authors" itemprop="author">
+        
+        Matt Hoffman, Bobak Shahriari, John Aslanides, Gabriel Barth-Maron, Feryal Behbahani, Tamara Norman, Abbas Abdolmaleki, Albin Cassirer, Fan Yang, Kate Baumli, Sarah Henderson, Alex Novikov, Sergio Gómez Colmenarejo, Serkan Cabi, Caglar Gulcehre, Tom Le Paine, Andrew Cowie, Ziyu Wang, Bilal Piot, Nando de Freitas
+        
+      </div>
+
+      <div class="pub-publication">
+        
+        
+        
+      </div>
+
+      <div class="pub-links">
+        
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://feryal.github.io/publication/acme/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/2006.00979">
+  PDF
+</a>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/deepmind/acme">
+  Code
+</a>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://deepmind.com/research/publications/Acme">
+  Project
+</a>
+
+
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+    
+    <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row">
+
+    
+
+    <div class="col-md-12">
+      <a href="https://feryal.github.io/publication/analysis/">
+        <img src="/img/headers/analysis.png" class="pub-banner"
+             itemprop="image">
+      </a>
+    </div>
+    <div class="col-md-12">
+
+    
+
+      <h3 class="article-title" itemprop="name">
+        <a href="https://feryal.github.io/publication/analysis/" itemprop="url">Analysing Deep Reinforcement Learning Agents Trained with Domain Randomisation</a>
+      </h3>
+
+      <div class="pub-abstract" itemprop="text">
+        
+        Deep reinforcement learning has the potential to train robots to perform complex tasks in the real world without requiring accurate models of the robot or its environment. A practical approach is to train agents in simulation, and then transfer them to the real world. One popular method for achieving transferability is to use domain randomisation, which involves randomly perturbing various aspects of a simulated environment in order to make trained agents robust to the reality gap. However, less work has gone into understanding such agents - which are deployed in the real world - beyond task performance. In this work we examine such agents, through qualitative and quantitative comparisons between agents trained with and without visual domain randomisation. We train agents for Fetch and Jaco robots on a visuomotor control task and evaluate how well they generalise using different testing conditions. Finally, we investigate the internals of the trained agents by using a suite of interpretability techniques. Our results show that the primary outcome of domain randomisation is more robust, entangled representations, accompanied with larger weights with greater spatial structure; moreover, the types of changes are heavily influenced by the task setup and presence of additional proprioceptive inputs. Additionally, we demonstrate that our domain randomised agents require higher sample complexity, can overfit and more heavily rely on recurrent processing. Furthermore, even with an improved saliency method introduced in this work, we show that qualitative studies may not always correspond with quantitative measures, necessitating the combination of inspection tools in order to provide sufficient insights into the behaviour of trained agents.
+        
+      </div>
+
+      <div class="pub-authors" itemprop="author">
+        
+        Tianhong Dai, Kai Arulkumaran, Tamara Gerbert, Samyakh Tukra, Feryal Behbahani, Anil Anthony Bharath
+        
+      </div>
+
+      <div class="pub-publication">
+        
+        
+        
+      </div>
+
+      <div class="pub-links">
+        
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://feryal.github.io/publication/analysis/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1912.08324">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+    
+    <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row">
+
+    
+
+    <div class="col-md-12">
+
+    
+
+      <h3 class="article-title" itemprop="name">
+        <a href="https://feryal.github.io/publication/shrinkage/" itemprop="url">Modular Meta-Learning with Shrinkage</a>
+      </h3>
+
+      <div class="pub-abstract" itemprop="text">
+        
+        The modular nature of deep networks allows some components to learn general features, while others learn more task-specific features. When a deep model is then fine-tuned on a new task, each component adapts differently. For example, the input layers of an image classification convnet typically adapt very little, while the output layers may change significantly. However, standard meta-learning approaches ignore this variability and either adapt all modules equally or hand-pick a subset to adapt. This can result in overfitting and wasted computation during adaptation. In this work, we develop techniques based on Bayesian shrinkage to meta-learn how task-independent each module is and to regularize it accordingly. We show that various recent meta-learning algorithms, such as MAML and Reptile, are special cases of our formulation in the limit of no regularization. Empirically, our approach discovers a small subset of modules to adapt, and improves performance. Notably, our method finds that the final layer is not always the best layer to adapt, contradicting standard practices in the literature.
+        
+      </div>
+
+      <div class="pub-authors" itemprop="author">
+        
+        Yutian Chen, Abram L. Friesen, Feryal Behbahani, Arnaud Doucet, David Budden, Matthew W. Hoffman, Nando de Freitas
+        
+      </div>
+
+      <div class="pub-publication">
+        
+        
+        
+      </div>
+
+      <div class="pub-links">
+        
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://feryal.github.io/publication/shrinkage/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1909.05557">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+    
+    <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row">
+
+    
+
+    <div class="col-md-12">
       <a href="https://feryal.github.io/publication/vibe/">
         <img src="/img/headers/vibe.png" class="pub-banner"
              itemprop="image">
@@ -561,12 +758,131 @@ I previously obtained my MSc in Artificial Intelligence with distinction at Impe
     <h1>Recent Publications</h1>
     
     
+    <p class="view-all">
+      <a href="/publication/">
+        More Publications
+        <i class="fa fa-angle-double-right"></i>
+      </a>
+    </p>
+    
   </div>
   <div class="col-xs-12 col-md-8">
     
 
     
     <ul class="fa-ul">
+      
+      <li itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="name">Acme: A Research Framework for Distributed Reinforcement Learning</span>
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://feryal.github.io/publication/acme/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/2006.00979">
+  PDF
+</a>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/deepmind/acme">
+  Code
+</a>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://deepmind.com/research/publications/Acme">
+  Project
+</a>
+
+
+</p>
+</li>
+
+      
+      <li itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="name">Privileged Information Dropout in Reinforcement Learning</span>
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://feryal.github.io/publication/privinfodropout/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/2005.09220">
+  PDF
+</a>
+
+
+
+
+
+
+
+</p>
+</li>
+
+      
+      <li itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="name">Analysing Deep Reinforcement Learning Agents Trained with Domain Randomisation</span>
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://feryal.github.io/publication/analysis/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1912.08324">
+  PDF
+</a>
+
+
+
+
+
+
+
+</p>
+</li>
+
+      
+      <li itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="name">Modular Meta-Learning with Shrinkage</span>
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://feryal.github.io/publication/shrinkage/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1909.05557">
+  PDF
+</a>
+
+
+
+
+
+
+
+</p>
+</li>
+
       
       <li itemscope itemtype="http://schema.org/CreativeWork">
   <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
@@ -714,106 +1030,6 @@ I previously obtained my MSc in Artificial Intelligence with distinction at Impe
 
 
 <a class="btn btn-primary btn-outline btn-xs" href="https://feryal.github.io/publication/thesis/">
-  Details
-</a>
-
-
-
-
-
-
-
-
-</p>
-</li>
-
-      
-      <li itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="name">Haptic SLAM: An Ideal Observer Model for Bayesian Inference of Object Shape and Hand Pose from Contact Dynamics</span>
-  <p>
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://feryal.github.io/publication/hapticslam/">
-  Details
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://spiral.imperial.ac.uk/bitstream/10044/1/34007/2/HapticSlam.pdf">
-  PDF
-</a>
-
-
-
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://link.springer.com/chapter/10.1007%2F978-3-319-42321-0_14">
-  Book chapter
-</a>
-
-</p>
-</li>
-
-      
-      <li itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="name">The emergence of decision boundaries is predicted by second order statistics of stimuli in visual categorization</span>
-  <p>
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://feryal.github.io/publication/vss15/">
-  Details
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="http://jov.arvojournals.org/article.aspx?articleid=2434283&amp;resultClick=1">
-  PDF
-</a>
-
-
-
-
-
-
-
-</p>
-</li>
-
-      
-      <li itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="name">Haptic SLAM for Context-Aware Robotic Hand Prosthetics - Simultaneous Inference of Hand Pose and Object Shape Using Particle Filters</span>
-  <p>
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://feryal.github.io/publication/ner15/">
-  Details
-</a>
-
-
-
-
-
-
-
-
-</p>
-</li>
-
-      
-      <li itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="name">Visual categorization reflects second order generative statistics</span>
-  <p>
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://feryal.github.io/publication/cosyne14/">
   Details
 </a>
 
