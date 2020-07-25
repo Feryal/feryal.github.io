@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Tutorial on RL (EEML 2020)</title>
+      <link>https://feryal.github.io/project/eeml/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://feryal.github.io/project/eeml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Privileged Information Dropout in Reinforcement Learning</title>
       <link>https://feryal.github.io/publication/privinfodropout/</link>
       <pubDate>Wed, 15 Jan 2020 22:00:19 +0100</pubDate>
@@ -285,15 +294,6 @@ $$\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \
       <guid>https://feryal.github.io/talk/rework/</guid>
       <description>&lt;p&gt;The capabilities of humans to precisely and robustly recognise and manipulate objects has been instrumental in the development of human cognition. However, understanding and replicating this process has proven to be difficult. This is of particular importance when thinking of agents or robots acting in naturalistic environments, solving complex tasks. I will present recent work in this direction, focusing on computational optimality and Deep Reinforcement Learning techniques, to discover how to manipulate objects within a 3D physics simulator from high-dimensional sensory observations.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Human Visual classification reflects Bayesian generative representations (under submission)</title>
-      <link>https://feryal.github.io/publication/categorisation/</link>
-      <pubDate>Thu, 20 Jul 2017 22:00:19 +0100</pubDate>
-      
-      <guid>https://feryal.github.io/publication/categorisation/</guid>
-      <description></description>
     </item>
     
   </channel>

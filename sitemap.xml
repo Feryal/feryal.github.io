@@ -14,6 +14,15 @@
     
     <url>
     
+      <loc>https://feryal.github.io/project/eeml/</loc>
+      <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://feryal.github.io/publication/privinfodropout/</loc>
       <lastmod>2020-01-15T22:00:19+01:00</lastmod>
     </url>
@@ -348,8 +357,18 @@
     
     <url>
     
+      <loc>https://feryal.github.io/tags/jax/</loc>
+      <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://feryal.github.io/project/</loc>
-      <lastmod>2018-08-25T00:00:00+00:00</lastmod>
+      <lastmod>2020-07-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -360,6 +379,16 @@
     
       <loc>https://feryal.github.io/publication_types/</loc>
       <lastmod>2018-09-15T22:00:19+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://feryal.github.io/tags/rl/</loc>
+      <lastmod>2020-07-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -380,6 +409,16 @@
     
       <loc>https://feryal.github.io/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://feryal.github.io/tags/tutorial/</loc>
+      <lastmod>2020-07-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
