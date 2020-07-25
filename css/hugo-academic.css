@@ -3,7 +3,7 @@
  *  Designed by @GeorgeCushen.
  *  https://github.com/gcushen/hugo-academic
  **************************************************/
- 
+
 /*************************************************
  *  Core
  **************************************************/
@@ -275,7 +275,7 @@ blockquote p:last-child {
 #profile .portrait-title h3 {
   font-size: 1.13em;
   font-weight: 300;
-  color: #AAAAAA;
+  color: rgb(170, 170, 170);
   margin: 0px 0 10px 0;
 }
 
